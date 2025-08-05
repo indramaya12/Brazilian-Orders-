@@ -10,6 +10,10 @@ Dataset `olist_geolocation_dataset.csv` tersedia di Google Drive:
 1. Aktifkan virtual environment:
 ```bash
 python -m venv venv
-.\venv\Scripts\activate
+.\venv\Scripts\activate```
 
-pip install -r requirements.txt
+2. Install library
+```pip install -r requirements.txt```
+
+3. Jalankan Dashboard
+```streamlit run app.py```
