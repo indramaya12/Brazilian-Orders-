@@ -1,5 +1,10 @@
 # Brazilian-Orders-
 
+📊 Fitur Dashboard
+- Visualisasi sebaran geolokasi customer & seller.
+- Analisis persebaran wilayah berdasarkan kode pos.
+- Statistik pesanan berdasarkan lokasi geografis.
+
 ## 📂 Dataset
 
 Project ini menggunakan berbagai dataset dari Olist E-commerce Public Dataset. Berikut beberapa file utama:
