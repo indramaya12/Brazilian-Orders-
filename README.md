@@ -1,7 +1,6 @@
 # Brazilian-Orders-
 
 ## 📂 Dataset
-## 📁 Dataset
 
 Project ini menggunakan berbagai dataset dari Olist E-commerce Public Dataset. Berikut beberapa file utama:
 
