@@ -8,7 +8,8 @@ Dataset `olist_geolocation_dataset.csv` tersedia di Google Drive:
 ## 🚀 Cara Menjalankan Dashboard
 
 1. Aktifkan virtual environment:
-```bash
+```
+bash
 python -m venv venv
 .\venv\Scripts\activate```
 
